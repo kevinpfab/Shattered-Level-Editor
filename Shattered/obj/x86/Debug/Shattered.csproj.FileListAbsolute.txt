@@ -1,0 +1,10 @@
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Shattered.exe
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Shattered.pdb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\obj\x86\Debug\Shattered.exe
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\obj\x86\Debug\Shattered.pdb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Content\Grid\WhitePixel.xnb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Content\Levels\1-1.xml
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Shattered\Shattered\bin\x86\Debug\Content\Grid\WhiteScreen.xnb
